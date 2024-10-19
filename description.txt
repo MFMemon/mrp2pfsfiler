@@ -1,0 +1,1 @@
+Setup filer server for file system and spin up master(s) for mapreduce
